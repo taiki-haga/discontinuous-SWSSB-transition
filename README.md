@@ -17,7 +17,6 @@ The `scripts/` directory contains Julia scripts to reproduce data used in the pa
 - **`Ising_renyi_Dicke_initial_state.jl`** : Compute time evolution of the R\'enyi-2 correlator for the Dicke initial states.
 - **`Ising_renyi_rainbow_initial_state.jl`** : Compute time evolution of the R\'enyi-2 correlator for the rainbow initial states.
 - **`Ising_entropy_random_initial_state.jl`** : Compute time evolution of the global entropy for random initial states.
-- **`Ising_renyi_random_initial_state.jl`** : Compute time evolution of the R\'enyi-2 correlator for random initial states.
 - **`Ising_renyi_cluster_mean_field.jl`** : Compute time evolution of the R\'enyi-2 correlator for random initial states by using the cluster mean-field approximation.
 
 ### Hard-core boson model under dephasing
