@@ -3,6 +3,7 @@
 This repository contains codes and data for our study of discontinuous strong-to-weak spontaneous symmetry breaking (SWSSB) transitions in open quantum systems.
 
 Paper: https://arxiv.org/abs/2606.15062
+
 ---
 
 ## Scripts
